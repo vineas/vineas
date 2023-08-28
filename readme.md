@@ -10,7 +10,7 @@ I'm Alvienas Yandika, you can call me Vinas
 
 #### Languages:
 
-![Javascript](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Golang](https://img.shields.io/badge/Golang-3776AB?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
