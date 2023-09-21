@@ -1,16 +1,12 @@
-### Hi there 👋
-I'm Alvienas Yandika, you can call me Vinas
-- 🔭 I’m currently working on building up portfolio, and making ✨ _cool websites (soon™️)_ ✨
-- 🌱 I’m currently learning javascript frontend and backend libraries
-- 🤔 I’m looking for help with code readibility in my repositories
-- 💬 Ask me about current events on computers and technology advancements
+### Hi, I'm Alvienas Yandika 
+I am a Fullstack Web Developer with a primary interest in modern web application development. I have extensive experience in building and designing web applications that are responsive, intuitive, and reliable. I also have a background in programming languages such as JavaScript, Python, Golang and Java.
 
 
 ## Skills:
 
 #### Languages:
 
-![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+![Javascript](https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Golang](https://img.shields.io/badge/Golang-%23008080?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
@@ -25,6 +21,7 @@ I'm Alvienas Yandika, you can call me Vinas
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-ED8B00?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
