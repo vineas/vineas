@@ -1,5 +1,5 @@
 ### Hi, I'm Alvienas Yandika 
-I am a Software Engineer with a primary interest in modern web application development. I have extensive experience in building and designing web applications that are responsive, intuitive, and reliable. I also have a background in programming languages such as JavaScript, Python, and Golang.
+I am a Software Engineer with a primary interest in modern web application development. I have extensive experience in building and designing web applications that are responsive, intuitive, and reliable. I also have a background in programming languages such as JavaScript, PHP, and Python.
 
 
 ## Skills:
