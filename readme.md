@@ -7,7 +7,7 @@ I am a Software Engineer with a primary interest in modern web application devel
 #### Languages:
 
 ![Javascript](https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/Php-%3776AB?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/Php-%23008080?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Technology:
@@ -16,6 +16,7 @@ I am a Software Engineer with a primary interest in modern web application devel
 ![Express JS](https://img.shields.io/badge/Express-%23008080?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Next JS](https://img.shields.io/badge/Nextjs-00000F?style=for-the-badge&logo=nextjs&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/ReactNative-3776AB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-%23FA0F00?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 #### Database
 
