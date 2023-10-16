@@ -14,7 +14,7 @@ I am a Software Engineer with a primary interest in modern web application devel
 
 ![React JS](https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Express JS](https://img.shields.io/badge/Express-%23008080?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/NextJS-00000F?style=for-the-badge&logo=next&logoColor=white)&nbsp;
+![Next JS](https://img.shields.io/badge/NextJS-00000F?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/ReactNative-3776AB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-%23FA0F00?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
