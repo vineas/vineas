@@ -8,7 +8,7 @@ I am a Software Engineer with a primary interest in modern web application devel
 
 ![Javascript](https://img.shields.io/badge/Javascript-FCC624?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/Php-6F00FF?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 #### Technology:
 
